@@ -1,5 +1,5 @@
 
-name: Build GPS TRUCK ALEX
+name: .github/workflows/android.yml
 
 on:
   workflow_dispatch:
